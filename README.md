@@ -2,6 +2,8 @@
 A script that fetches a bible verse and prints it to the terminal 
 
 ## #Todo:
-- [ ] add some way to access an online bible and save all fetched verses.
-- [ ] add multiple bible translations
-- [ ] add different output methods
+- [ ] Add some way to access an online bible and save all fetched verses.
+- [ ] Add multiple bible translations
+- [ ] Add different output methods
+- [ ] Deal with very short verses
+- [ ] Cache current verse so lookup only happens once in a cycle
